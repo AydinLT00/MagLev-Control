@@ -1,1 +1,2 @@
 fprintf('hello')
+clc
